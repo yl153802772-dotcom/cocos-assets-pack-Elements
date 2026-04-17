@@ -40,6 +40,12 @@ Output├──/
 
 ├── effect/           # 粒子特效
 
+上传 
+git add .
+git commit -m "112"
+git push
+拉取
+ git pull --recurse-submodules
 
 
 
