@@ -1,0 +1,32 @@
+1. 子弹预制体的结构：
+
+Bullet（128空间）
+   ├── Core（用96图） ---默认朝向：向上（↑）
+   ├── Trail（用256长图）---上：亮（靠近子弹，下：透明（拖尾）--- 从上往下渐隐
+   ├── Particle（用32小图） ---无方向要求（自由）
+   └── Glow（用128图） ---完全对称（无方向）
+
+命名规则：
+bullet_fire_core      96x96
+bullet_fire_trail     64x256
+bullet_fire_particle  32x32
+bullet_fire_glow      128x128
+
+
+2. 预制体节点下资源的尺寸：--原始图片实际尺寸（裁剪后的尺寸）
+bullet_fire_core      96x96 --必须留透明边
+bullet_fire_trail     64x256 --不要做成128x128----从上亮 → 下透明渐变
+bullet_fire_particle  32x32 --否则1000子弹直接炸性能 ----一个小碎片
+bullet_fire_glow      128x128 ----完整光晕
+---
+
+3. 打包布局示例：
+[trail] [core] [core] [glow]
+[trail] [core] [core] [glow]
+[trail] [particle][particle][particle]
+
+4. 使用texturepacker打包参数
+Trim：开启（必须）
+Rotation：关闭（拖尾不能旋转）
+Padding：2
+Extrude：2
