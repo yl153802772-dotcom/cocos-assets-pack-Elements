@@ -200,7 +200,7 @@
       <key>size</key>
       <string>{512,1024}</string>
       <key>textureFileName</key>
-      <string>bullet_common.png</string>
+      <string>atlas_bullet_common.png</string>
     </dict>
   </dict>
 </plist>
