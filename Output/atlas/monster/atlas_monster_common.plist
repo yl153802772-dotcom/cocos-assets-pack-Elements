@@ -4,10 +4,36 @@
   <dict>
     <key>frames</key>
     <dict>
-      <key>monster_fire_1_run_05</key>
+      <key>monster_earth_t1_run_02</key>
       <dict>
         <key>frame</key>
-        <string>{{4,4},{95,95}}</string>
+        <string>{{4,4},{105,71}}</string>
+        <key>offset</key>
+        <string>{-0.5,-28.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{11,57},{105,71}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_earth_t1_run_04</key>
+      <dict>
+        <key>frame</key>
+        <string>{{117,4},{100,76}}</string>
+        <key>offset</key>
+        <string>{0,-26}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,52},{100,76}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_fire_t1_run_05</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,83},{95,95}}</string>
         <key>offset</key>
         <string>{-0.5,-16.5}</string>
         <key>rotated</key>
@@ -17,10 +43,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_1_run_04</key>
+      <key>monster_fire_t1_run_04</key>
       <dict>
         <key>frame</key>
-        <string>{{107,4},{95,93}}</string>
+        <string>{{225,4},{95,93}}</string>
         <key>offset</key>
         <string>{-0.5,-17.5}</string>
         <key>rotated</key>
@@ -30,10 +56,62 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_06</key>
+      <key>monster_earth_t1_run_06</key>
       <dict>
         <key>frame</key>
-        <string>{{210,4},{73,56}}</string>
+        <string>{{107,88},{92,76}}</string>
+        <key>offset</key>
+        <string>{0,-26}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{18,52},{92,76}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_earth_t1_run_05</key>
+      <dict>
+        <key>frame</key>
+        <string>{{107,172},{80,74}}</string>
+        <key>offset</key>
+        <string>{0,-27}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{24,54},{80,74}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_earth_t1_run_01</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,186},{79,73}}</string>
+        <key>offset</key>
+        <string>{-0.5,-27.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{24,55},{79,73}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_earth_t1_run_03</key>
+      <dict>
+        <key>frame</key>
+        <string>{{328,4},{75,74}}</string>
+        <key>offset</key>
+        <string>{-0.5,-27}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{26,54},{75,74}}</string>
+        <key>sourceSize</key>
+        <string>{128,128}</string>
+      </dict>
+      <key>monster_water_t1_run_06</key>
+      <dict>
+        <key>frame</key>
+        <string>{{411,4},{73,56}}</string>
         <key>offset</key>
         <string>{-0.5,-36}</string>
         <key>rotated</key>
@@ -43,10 +121,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_1_run_06</key>
+      <key>monster_fire_t1_run_06</key>
       <dict>
         <key>frame</key>
-        <string>{{291,4},{70,72}}</string>
+        <string>{{492,4},{70,72}}</string>
         <key>offset</key>
         <string>{0,-28}</string>
         <key>rotated</key>
@@ -56,10 +134,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_04</key>
+      <key>monster_wind_t1_run_04</key>
       <dict>
         <key>frame</key>
-        <string>{{210,68},{70,60}}</string>
+        <string>{{411,68},{70,60}}</string>
         <key>offset</key>
         <string>{0,-34}</string>
         <key>rotated</key>
@@ -69,10 +147,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_01</key>
+      <key>monster_wind_t1_run_01</key>
       <dict>
         <key>frame</key>
-        <string>{{107,105},{69,60}}</string>
+        <string>{{328,86},{69,60}}</string>
         <key>offset</key>
         <string>{-0.5,-34}</string>
         <key>rotated</key>
@@ -82,10 +160,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_02</key>
+      <key>monster_wind_t1_run_02</key>
       <dict>
         <key>frame</key>
-        <string>{{4,107},{69,59}}</string>
+        <string>{{207,105},{69,59}}</string>
         <key>offset</key>
         <string>{-0.5,-34.5}</string>
         <key>rotated</key>
@@ -95,10 +173,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_05</key>
+      <key>monster_wind_t1_run_05</key>
       <dict>
         <key>frame</key>
-        <string>{{369,4},{69,58}}</string>
+        <string>{{570,4},{69,58}}</string>
         <key>offset</key>
         <string>{-0.5,-35}</string>
         <key>rotated</key>
@@ -108,10 +186,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_03</key>
+      <key>monster_wind_t1_run_03</key>
       <dict>
         <key>frame</key>
-        <string>{{446,4},{69,57}}</string>
+        <string>{{647,4},{69,57}}</string>
         <key>offset</key>
         <string>{-0.5,-35.5}</string>
         <key>rotated</key>
@@ -121,10 +199,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_wind_1_run_06</key>
+      <key>monster_wind_t1_run_06</key>
       <dict>
         <key>frame</key>
-        <string>{{523,4},{69,55}}</string>
+        <string>{{724,4},{69,55}}</string>
         <key>offset</key>
         <string>{-0.5,-36.5}</string>
         <key>rotated</key>
@@ -134,10 +212,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_1_run_03</key>
+      <key>monster_fire_t1_run_03</key>
       <dict>
         <key>frame</key>
-        <string>{{600,4},{68,68}}</string>
+        <string>{{801,4},{68,68}}</string>
         <key>offset</key>
         <string>{0,-30}</string>
         <key>rotated</key>
@@ -147,10 +225,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_04</key>
+      <key>monster_water_t1_run_04</key>
       <dict>
         <key>frame</key>
-        <string>{{523,67},{67,65}}</string>
+        <string>{{724,67},{67,65}}</string>
         <key>offset</key>
         <string>{-0.5,-31.5}</string>
         <key>rotated</key>
@@ -160,10 +238,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_1_run_01</key>
+      <key>monster_fire_t1_run_01</key>
       <dict>
         <key>frame</key>
-        <string>{{446,69},{66,66}}</string>
+        <string>{{647,69},{66,66}}</string>
         <key>offset</key>
         <string>{0,-31}</string>
         <key>rotated</key>
@@ -173,10 +251,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_01</key>
+      <key>monster_water_t1_run_01</key>
       <dict>
         <key>frame</key>
-        <string>{{369,70},{66,66}}</string>
+        <string>{{570,70},{66,66}}</string>
         <key>offset</key>
         <string>{0,-31}</string>
         <key>rotated</key>
@@ -186,10 +264,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_1_run_02</key>
+      <key>monster_fire_t1_run_02</key>
       <dict>
         <key>frame</key>
-        <string>{{443,143},{65,76}}</string>
+        <string>{{644,143},{65,76}}</string>
         <key>offset</key>
         <string>{-0.5,-26}</string>
         <key>rotated</key>
@@ -199,10 +277,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_03</key>
+      <key>monster_water_t1_run_03</key>
       <dict>
         <key>frame</key>
-        <string>{{288,84},{65,66}}</string>
+        <string>{{489,84},{65,66}}</string>
         <key>offset</key>
         <string>{-0.5,-31}</string>
         <key>rotated</key>
@@ -212,10 +290,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_02</key>
+      <key>monster_water_t1_run_02</key>
       <dict>
         <key>frame</key>
-        <string>{{288,158},{61,68}}</string>
+        <string>{{489,158},{61,68}}</string>
         <key>offset</key>
         <string>{-0.5,-30}</string>
         <key>rotated</key>
@@ -225,10 +303,10 @@
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_1_run_05</key>
+      <key>monster_water_t1_run_05</key>
       <dict>
         <key>frame</key>
-        <string>{{361,144},{61,67}}</string>
+        <string>{{562,144},{61,67}}</string>
         <key>offset</key>
         <string>{-0.5,-30.5}</string>
         <key>rotated</key>
