@@ -1,0 +1,15 @@
+{
+  "name": "sprite-packer",
+  "version": "1.0.0",
+  "description": "1. 读取 `/Volumes/OpenClaw/Animation/source_Ani` 中的视频 2. FFmpeg 抽帧 → `/Volumes/OpenClaw/Animation/frames` 3. 去除绿幕 + 去除豆包水印 4. 缩放到指定尺寸 → `/Volumes/OpenClaw/Animation/frames_scaled` 5. 智能打包精灵表 → `/Volumes/OpenClaw/Animation/ani_plist` 6. 视频归档 → `/Volumes/OpenClaw/Animation/trushvideo`",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "free-tex-packer-core": "^0.3.5"
+  }
+}

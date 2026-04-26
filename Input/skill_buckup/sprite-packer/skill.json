@@ -1,0 +1,122 @@
+{
+  "name": "video-to-spritesheet",
+  "version": "1.0.0",
+  "description": "视频转精灵表完整流水线 - 去绿幕/去水印/抽帧/缩放/智能打包",
+  "author": "OpenClaw User",
+  "triggers": [
+    "视频转精灵表",
+    "视频打包精灵",
+    "视频生成plist",
+    "动画转精灵表",
+    "批量处理视频",
+    "豆包视频转动画"
+  ],
+  "parameters": {
+    "source_dir": {
+      "type": "string",
+      "description": "源视频文件夹",
+      "required": false,
+      "default": "/Volumes/OpenClaw/Animation/source_Ani"
+    },
+    "frames_dir": {
+      "type": "string",
+      "description": "抽帧临时文件夹",
+      "required": false,
+      "default": "/Volumes/OpenClaw/Animation/frames"
+    },
+    "scaled_dir": {
+      "type": "string",
+      "description": "缩放后图片文件夹",
+      "required": false,
+      "default": "/Volumes/OpenClaw/Animation/frames_scaled"
+    },
+    "output_dir": {
+      "type": "string",
+      "description": "最终plist输出文件夹",
+      "required": false,
+      "default": "/Volumes/OpenClaw/Animation/ani_plist"
+    },
+    "trash_dir": {
+      "type": "string",
+      "description": "已处理视频归档文件夹",
+      "required": false,
+      "default": "/Volumes/OpenClaw/Animation/trushvideo"
+    },
+    "fps": {
+      "type": "number",
+      "description": "抽帧帧率（每秒抽取帧数）",
+      "required": false,
+      "default": 10
+    },
+    "scale_size": {
+      "type": "number",
+      "description": "XnConvert缩放尺寸（像素，宽高等比）",
+      "required": false,
+      "default": 512
+    },
+    "remove_green_screen": {
+      "type": "boolean",
+      "description": "是否去除绿幕背景",
+      "required": false,
+      "default": true
+    },
+    "remove_watermark": {
+      "type": "boolean",
+      "description": "是否去除豆包右下角水印",
+      "required": false,
+      "default": true
+    },
+    "green_screen_color": {
+      "type": "string",
+      "description": "绿幕颜色值（十六进制）",
+      "required": false,
+      "default": "00ff00"
+    },
+    "size_mode": {
+      "type": "string",
+      "description": "精灵表尺寸模式: auto(自动), fixed(固定)",
+      "required": false,
+      "default": "auto"
+    },
+    "max_texture_size": {
+      "type": "number",
+      "description": "精灵表最大尺寸",
+      "required": false,
+      "default": 2048
+    },
+    "min_texture_size": {
+      "type": "number",
+      "description": "精灵表最小尺寸",
+      "required": false,
+      "default": 512
+    },
+    "allow_rotation": {
+      "type": "boolean",
+      "description": "允许旋转图片优化空间",
+      "required": false,
+      "default": true
+    },
+    "padding": {
+      "type": "number",
+      "description": "精灵表图片间距",
+      "required": false,
+      "default": 2
+    },
+    "quality": {
+      "type": "string",
+      "description": "打包质量: high, balanced, speed",
+      "required": false,
+      "default": "balanced"
+    },
+    "video_extensions": {
+      "type": "string",
+      "description": "视频文件扩展名（逗号分隔）",
+      "required": false,
+      "default": "mp4,mov,avi,mkv"
+    }
+  },
+  "output": {
+    "format": "json",
+    "fields": ["status", "video_processed", "frames_extracted", "images_scaled", "plist_file", "png_file", "final_size"]
+  }
+}
