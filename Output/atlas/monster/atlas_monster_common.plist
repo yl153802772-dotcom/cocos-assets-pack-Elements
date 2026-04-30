@@ -4,317 +4,551 @@
   <dict>
     <key>frames</key>
     <dict>
-      <key>monster_earth_t1_run_02</key>
+      <key>slime_base_walk_7</key>
       <dict>
         <key>frame</key>
-        <string>{{4,4},{105,71}}</string>
+        <string>{{4,4},{128,78}}</string>
         <key>offset</key>
-        <string>{-0.5,-28.5}</string>
+        <string>{0,-22}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{11,57},{105,71}}</string>
+        <string>{{0,47},{128,78}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_earth_t1_run_04</key>
+      <key>slime_base_walk_5</key>
       <dict>
         <key>frame</key>
-        <string>{{117,4},{100,76}}</string>
+        <string>{{140,4},{128,73}}</string>
         <key>offset</key>
-        <string>{0,-26}</string>
+        <string>{0,-24.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{14,52},{100,76}}</string>
+        <string>{{0,52},{128,73}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_t1_run_05</key>
+      <key>slime_base_walk_4</key>
       <dict>
         <key>frame</key>
-        <string>{{4,83},{95,95}}</string>
+        <string>{{276,4},{127,113}}</string>
         <key>offset</key>
-        <string>{-0.5,-16.5}</string>
+        <string>{0.5,-5.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{16,33},{95,95}}</string>
+        <string>{{1,13},{127,113}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_fire_t1_run_04</key>
+      <key>slime_base_walk_1</key>
       <dict>
         <key>frame</key>
-        <string>{{225,4},{95,93}}</string>
+        <string>{{140,85},{125,68}}</string>
         <key>offset</key>
-        <string>{-0.5,-17.5}</string>
+        <string>{-1.5,-27}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{16,35},{95,93}}</string>
+        <string>{{0,57},{125,68}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_earth_t1_run_06</key>
+      <key>slime_base_walk_3</key>
       <dict>
         <key>frame</key>
-        <string>{{107,88},{92,76}}</string>
+        <string>{{4,90},{124,121}}</string>
         <key>offset</key>
-        <string>{0,-26}</string>
+        <string>{0,-1.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{18,52},{92,76}}</string>
+        <string>{{2,5},{124,121}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_earth_t1_run_05</key>
+      <key>slime_base_walk_6</key>
       <dict>
         <key>frame</key>
-        <string>{{107,172},{80,74}}</string>
+        <string>{{411,4},{122,96}}</string>
         <key>offset</key>
-        <string>{0,-27}</string>
+        <string>{3,-14}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{24,54},{80,74}}</string>
+        <string>{{6,30},{122,96}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_earth_t1_run_01</key>
+      <key>slime_base_walk_2</key>
       <dict>
         <key>frame</key>
-        <string>{{4,186},{79,73}}</string>
+        <string>{{541,4},{118,100}}</string>
         <key>offset</key>
-        <string>{-0.5,-27.5}</string>
+        <string>{5,-12}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{24,55},{79,73}}</string>
+        <string>{{10,26},{118,100}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_earth_t1_run_03</key>
+      <key>slime_base_walk_0</key>
       <dict>
         <key>frame</key>
-        <string>{{328,4},{75,74}}</string>
+        <string>{{411,108},{114,100}}</string>
         <key>offset</key>
-        <string>{-0.5,-27}</string>
+        <string>{0,-6}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{26,54},{75,74}}</string>
+        <string>{{7,20},{114,100}}</string>
         <key>sourceSize</key>
         <string>{128,128}</string>
       </dict>
-      <key>monster_water_t1_run_06</key>
+      <key>slime_top_fire_3</key>
       <dict>
         <key>frame</key>
-        <string>{{411,4},{73,56}}</string>
+        <string>{{273,125},{64,56}}</string>
         <key>offset</key>
-        <string>{-0.5,-36}</string>
+        <string>{0,-4}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{27,72},{73,56}}</string>
+        <string>{{0,8},{64,56}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_fire_t1_run_06</key>
+      <key>slime_top_fire_2</key>
       <dict>
         <key>frame</key>
-        <string>{{492,4},{70,72}}</string>
+        <string>{{345,125},{58,51}}</string>
         <key>offset</key>
-        <string>{0,-28}</string>
+        <string>{0,-6.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,56},{70,72}}</string>
+        <string>{{3,13},{58,51}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_04</key>
+      <key>slime_core_earth_1</key>
       <dict>
         <key>frame</key>
-        <string>{{411,68},{70,60}}</string>
+        <string>{{345,184},{54,41}}</string>
         <key>offset</key>
-        <string>{0,-34}</string>
+        <string>{1,-11.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,68},{70,60}}</string>
+        <string>{{6,23},{54,41}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_01</key>
+      <key>slime_core_water_2</key>
       <dict>
         <key>frame</key>
-        <string>{{328,86},{69,60}}</string>
+        <string>{{136,161},{64,53}}</string>
         <key>offset</key>
-        <string>{-0.5,-34}</string>
+        <string>{0,-5.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,68},{69,60}}</string>
+        <string>{{0,11},{64,53}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_02</key>
+      <key>slime_core_earth_2</key>
       <dict>
         <key>frame</key>
-        <string>{{207,105},{69,59}}</string>
+        <string>{{208,161},{54,41}}</string>
         <key>offset</key>
-        <string>{-0.5,-34.5}</string>
+        <string>{0,-11.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,69},{69,59}}</string>
+        <string>{{5,23},{54,41}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_05</key>
+      <key>slime_core_water_3</key>
       <dict>
         <key>frame</key>
-        <string>{{570,4},{69,58}}</string>
+        <string>{{270,189},{64,52}}</string>
         <key>offset</key>
-        <string>{-0.5,-35}</string>
+        <string>{0,-5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,70},{69,58}}</string>
+        <string>{{0,11},{64,52}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_03</key>
+      <key>slime_core_earth_0</key>
       <dict>
         <key>frame</key>
-        <string>{{647,4},{69,57}}</string>
+        <string>{{208,210},{53,41}}</string>
         <key>offset</key>
-        <string>{-0.5,-35.5}</string>
+        <string>{1.5,-11.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,71},{69,57}}</string>
+        <string>{{7,23},{53,41}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_wind_t1_run_06</key>
+      <key>slime_core_water_0</key>
       <dict>
         <key>frame</key>
-        <string>{{724,4},{69,55}}</string>
+        <string>{{269,249},{64,51}}</string>
         <key>offset</key>
-        <string>{-0.5,-36.5}</string>
+        <string>{0,-6.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,73},{69,55}}</string>
+        <string>{{0,13},{64,51}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_fire_t1_run_03</key>
+      <key>slime_core_wind_2</key>
       <dict>
         <key>frame</key>
-        <string>{{801,4},{68,68}}</string>
+        <string>{{269,308},{64,46}}</string>
         <key>offset</key>
-        <string>{0,-30}</string>
+        <string>{0,-9}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{30,60},{68,68}}</string>
+        <string>{{0,18},{64,46}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_water_t1_run_04</key>
+      <key>slime_top_water_2</key>
       <dict>
         <key>frame</key>
-        <string>{{724,67},{67,65}}</string>
+        <string>{{4,219},{64,45}}</string>
         <key>offset</key>
-        <string>{-0.5,-31.5}</string>
+        <string>{0,-9.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{30,63},{67,65}}</string>
+        <string>{{0,19},{64,45}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_fire_t1_run_01</key>
+      <key>slime_core_earth_3</key>
       <dict>
         <key>frame</key>
-        <string>{{647,69},{66,66}}</string>
+        <string>{{76,219},{51,41}}</string>
         <key>offset</key>
-        <string>{0,-31}</string>
+        <string>{0.5,-11.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{31,62},{66,66}}</string>
+        <string>{{7,23},{51,41}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_water_t1_run_01</key>
+      <key>slime_top_wind_3</key>
       <dict>
         <key>frame</key>
-        <string>{{570,70},{66,66}}</string>
+        <string>{{135,222},{64,45}}</string>
         <key>offset</key>
-        <string>{0,-31}</string>
+        <string>{0,-9.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{31,62},{66,66}}</string>
+        <string>{{0,19},{64,45}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_fire_t1_run_02</key>
+      <key>slime_core_fire_0</key>
       <dict>
         <key>frame</key>
-        <string>{{644,143},{65,76}}</string>
+        <string>{{135,275},{64,42}}</string>
         <key>offset</key>
-        <string>{-0.5,-26}</string>
+        <string>{0,-11}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{31,52},{65,76}}</string>
+        <string>{{0,22},{64,42}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_water_t1_run_03</key>
+      <key>bloodbarbg</key>
       <dict>
         <key>frame</key>
-        <string>{{489,84},{65,66}}</string>
+        <string>{{76,268},{50,12}}</string>
         <key>offset</key>
-        <string>{-0.5,-31}</string>
+        <string>{0,0}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{31,62},{65,66}}</string>
+        <string>{{0,0},{50,12}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{50,12}</string>
       </dict>
-      <key>monster_water_t1_run_02</key>
+      <key>slime_top_fire_0</key>
       <dict>
         <key>frame</key>
-        <string>{{489,158},{61,68}}</string>
+        <string>{{4,272},{63,52}}</string>
         <key>offset</key>
-        <string>{-0.5,-30}</string>
+        <string>{-0.5,-6}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{33,60},{61,68}}</string>
+        <string>{{0,12},{63,52}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{64,64}</string>
       </dict>
-      <key>monster_water_t1_run_05</key>
+      <key>fillbar</key>
       <dict>
         <key>frame</key>
-        <string>{{562,144},{61,67}}</string>
+        <string>{{75,288},{50,12}}</string>
         <key>offset</key>
-        <string>{-0.5,-30.5}</string>
+        <string>{0,0}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{33,61},{61,67}}</string>
+        <string>{{0,0},{50,12}}</string>
         <key>sourceSize</key>
-        <string>{128,128}</string>
+        <string>{50,12}</string>
+      </dict>
+      <key>slime_core_fire_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{75,325},{63,49}}</string>
+        <key>offset</key>
+        <string>{0.5,-7.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,15},{63,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_water_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,332},{63,49}}</string>
+        <key>offset</key>
+        <string>{-0.5,-7.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,15},{63,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_wind_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{146,325},{63,44}}</string>
+        <key>offset</key>
+        <string>{-0.5,-10}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,20},{63,44}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_wind_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{667,4},{63,42}}</string>
+        <key>offset</key>
+        <string>{-0.5,-10}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,21},{63,42}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_wind_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{738,4},{63,42}}</string>
+        <key>offset</key>
+        <string>{0.5,-11}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,22},{63,42}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_water_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{809,4},{62,52}}</string>
+        <key>offset</key>
+        <string>{1,-6}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,12},{62,52}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_water_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{667,54},{62,48}}</string>
+        <key>offset</key>
+        <string>{1,-8}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,16},{62,48}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_wind_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{737,54},{62,46}}</string>
+        <key>offset</key>
+        <string>{1,-9}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,18},{62,46}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_water_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{879,4},{62,46}}</string>
+        <key>offset</key>
+        <string>{1,-9}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,18},{62,46}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_fire_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{949,4},{62,45}}</string>
+        <key>offset</key>
+        <string>{1,-9.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,19},{62,45}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_wind_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{949,57},{62,45}}</string>
+        <key>offset</key>
+        <string>{1,-9.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,19},{62,45}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_earth_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{879,58},{62,41}}</string>
+        <key>offset</key>
+        <string>{0,-11.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,23},{62,41}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_earth_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{807,64},{62,40}}</string>
+        <key>offset</key>
+        <string>{-1,-12}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,24},{62,40}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_fire_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{737,108},{60,51}}</string>
+        <key>offset</key>
+        <string>{1,-6.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,13},{60,51}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_wind_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{667,110},{60,41}}</string>
+        <key>offset</key>
+        <string>{-1,-11.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,23},{60,41}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_earth_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{877,107},{60,40}}</string>
+        <key>offset</key>
+        <string>{1,-12}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,24},{60,40}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_core_fire_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{805,112},{60,38}}</string>
+        <key>offset</key>
+        <string>{1,-13}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,26},{60,38}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>slime_top_earth_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{805,158},{59,40}}</string>
+        <key>offset</key>
+        <string>{-1.5,-12}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,24},{59,40}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
       </dict>
     </dict>
     <key>metadata</key>
