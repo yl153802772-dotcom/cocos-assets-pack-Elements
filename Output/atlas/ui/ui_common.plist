@@ -4,10 +4,75 @@
   <dict>
     <key>frames</key>
     <dict>
+      <key>mergeArea</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,4},{703,299}}</string>
+        <key>offset</key>
+        <string>{-0.5,-1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,12},{703,299}}</string>
+        <key>sourceSize</key>
+        <string>{710,320}</string>
+      </dict>
+      <key>icon_progress_bord</key>
+      <dict>
+        <key>frame</key>
+        <string>{{715,4},{300,50}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{300,50}}</string>
+        <key>sourceSize</key>
+        <string>{300,50}</string>
+      </dict>
+      <key>btn_common</key>
+      <dict>
+        <key>frame</key>
+        <string>{{715,62},{270,83}}</string>
+        <key>offset</key>
+        <string>{-1,-1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,10},{270,83}}</string>
+        <key>sourceSize</key>
+        <string>{300,100}</string>
+      </dict>
+      <key>icon_progress_bg</key>
+      <dict>
+        <key>frame</key>
+        <string>{{715,153},{259,33}}</string>
+        <key>offset</key>
+        <string>{-1.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{19,8},{259,33}}</string>
+        <key>sourceSize</key>
+        <string>{300,50}</string>
+      </dict>
+      <key>icon_progress_fill</key>
+      <dict>
+        <key>frame</key>
+        <string>{{715,194},{259,33}}</string>
+        <key>offset</key>
+        <string>{-1.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{19,8},{259,33}}</string>
+        <key>sourceSize</key>
+        <string>{300,50}</string>
+      </dict>
       <key>icon_bg_1</key>
       <dict>
         <key>frame</key>
-        <string>{{4,4},{160,55}}</string>
+        <string>{{715,235},{160,55}}</string>
         <key>offset</key>
         <string>{0,0}</string>
         <key>rotated</key>
@@ -17,10 +82,23 @@
         <key>sourceSize</key>
         <string>{160,55}</string>
       </dict>
+      <key>icon_heart</key>
+      <dict>
+        <key>frame</key>
+        <string>{{883,235},{99,93}}</string>
+        <key>offset</key>
+        <string>{0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,4},{99,93}}</string>
+        <key>sourceSize</key>
+        <string>{100,100}</string>
+      </dict>
       <key>icon_dam,on_bg</key>
       <dict>
         <key>frame</key>
-        <string>{{172,4},{160,54}}</string>
+        <string>{{715,298},{160,54}}</string>
         <key>offset</key>
         <string>{0,-0.5}</string>
         <key>rotated</key>
@@ -30,10 +108,62 @@
         <key>sourceSize</key>
         <string>{160,55}</string>
       </dict>
+      <key>icon_wave</key>
+      <dict>
+        <key>frame</key>
+        <string>{{883,336},{98,88}}</string>
+        <key>offset</key>
+        <string>{0,-2}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,8},{98,88}}</string>
+        <key>sourceSize</key>
+        <string>{100,100}</string>
+      </dict>
+      <key>btn_skill</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,432},{140,150}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{15,0},{140,150}}</string>
+        <key>sourceSize</key>
+        <string>{170,150}</string>
+      </dict>
+      <key>icon_bg_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,360},{157,55}}</string>
+        <key>offset</key>
+        <string>{-1.5,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{157,55}}</string>
+        <key>sourceSize</key>
+        <string>{160,55}</string>
+      </dict>
+      <key>icon_gold</key>
+      <dict>
+        <key>frame</key>
+        <string>{{169,311},{89,89}}</string>
+        <key>offset</key>
+        <string>{-0.5,-2.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{5,8},{89,89}}</string>
+        <key>sourceSize</key>
+        <string>{100,100}</string>
+      </dict>
       <key>icon_bg_4</key>
       <dict>
         <key>frame</key>
-        <string>{{340,4},{160,53}}</string>
+        <string>{{266,311},{160,53}}</string>
         <key>offset</key>
         <string>{0,1}</string>
         <key>rotated</key>
@@ -46,7 +176,7 @@
       <key>icon_gold_bg</key>
       <dict>
         <key>frame</key>
-        <string>{{508,4},{160,49}}</string>
+        <string>{{434,311},{160,49}}</string>
         <key>offset</key>
         <string>{0,-1}</string>
         <key>rotated</key>
@@ -56,114 +186,10 @@
         <key>sourceSize</key>
         <string>{160,55}</string>
       </dict>
-      <key>icon_bg_2</key>
-      <dict>
-        <key>frame</key>
-        <string>{{676,4},{159,51}}</string>
-        <key>offset</key>
-        <string>{-0.5,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,3},{159,51}}</string>
-        <key>sourceSize</key>
-        <string>{160,55}</string>
-      </dict>
-      <key>icon_bg_3</key>
-      <dict>
-        <key>frame</key>
-        <string>{{508,61},{157,55}}</string>
-        <key>offset</key>
-        <string>{-1.5,0}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,0},{157,55}}</string>
-        <key>sourceSize</key>
-        <string>{160,55}</string>
-      </dict>
-      <key>btn_sty3</key>
-      <dict>
-        <key>frame</key>
-        <string>{{340,65},{150,148}}</string>
-        <key>offset</key>
-        <string>{0,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,2},{150,148}}</string>
-        <key>sourceSize</key>
-        <string>{150,150}</string>
-      </dict>
-      <key>btn_trash</key>
-      <dict>
-        <key>frame</key>
-        <string>{{172,66},{141,149}}</string>
-        <key>offset</key>
-        <string>{-2.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{12,0},{141,149}}</string>
-        <key>sourceSize</key>
-        <string>{170,150}</string>
-      </dict>
-      <key>btn_skill</key>
-      <dict>
-        <key>frame</key>
-        <string>{{4,67},{140,150}}</string>
-        <key>offset</key>
-        <string>{0,0}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{15,0},{140,150}}</string>
-        <key>sourceSize</key>
-        <string>{170,150}</string>
-      </dict>
-      <key>icon_heart</key>
-      <dict>
-        <key>frame</key>
-        <string>{{843,4},{99,93}}</string>
-        <key>offset</key>
-        <string>{0.5,-0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,4},{99,93}}</string>
-        <key>sourceSize</key>
-        <string>{100,100}</string>
-      </dict>
-      <key>icon_wave</key>
-      <dict>
-        <key>frame</key>
-        <string>{{673,63},{98,88}}</string>
-        <key>offset</key>
-        <string>{0,-2}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,8},{98,88}}</string>
-        <key>sourceSize</key>
-        <string>{100,100}</string>
-      </dict>
-      <key>icon_gold</key>
-      <dict>
-        <key>frame</key>
-        <string>{{673,159},{89,89}}</string>
-        <key>offset</key>
-        <string>{-0.5,-2.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{5,8},{89,89}}</string>
-        <key>sourceSize</key>
-        <string>{100,100}</string>
-      </dict>
       <key>btn_skill_flow</key>
       <dict>
         <key>frame</key>
-        <string>{{498,124},{83,84}}</string>
+        <string>{{602,311},{83,84}}</string>
         <key>offset</key>
         <string>{-1.5,0}</string>
         <key>rotated</key>
@@ -173,23 +199,36 @@
         <key>sourceSize</key>
         <string>{170,150}</string>
       </dict>
-      <key>icon_trash_rot</key>
+      <key>icon_bg_2</key>
       <dict>
         <key>frame</key>
-        <string>{{589,124},{75,76}}</string>
+        <string>{{434,368},{159,51}}</string>
         <key>offset</key>
-        <string>{-2.5,6}</string>
+        <string>{-0.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{45,31},{75,76}}</string>
+        <string>{{0,3},{159,51}}</string>
         <key>sourceSize</key>
-        <string>{170,150}</string>
+        <string>{160,55}</string>
+      </dict>
+      <key>btn_sty3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{266,372},{150,148}}</string>
+        <key>offset</key>
+        <string>{0,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,2},{150,148}}</string>
+        <key>sourceSize</key>
+        <string>{150,150}</string>
       </dict>
       <key>btn_sty3_flow</key>
       <dict>
         <key>frame</key>
-        <string>{{498,216},{81,82}}</string>
+        <string>{{169,427},{81,82}}</string>
         <key>offset</key>
         <string>{0.5,3}</string>
         <key>rotated</key>
@@ -198,6 +237,32 @@
         <string>{{35,31},{81,82}}</string>
         <key>sourceSize</key>
         <string>{150,150}</string>
+      </dict>
+      <key>btn_trash</key>
+      <dict>
+        <key>frame</key>
+        <string>{{424,427},{141,149}}</string>
+        <key>offset</key>
+        <string>{-2.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{12,0},{141,149}}</string>
+        <key>sourceSize</key>
+        <string>{170,150}</string>
+      </dict>
+      <key>icon_trash_rot</key>
+      <dict>
+        <key>frame</key>
+        <string>{{152,517},{75,76}}</string>
+        <key>offset</key>
+        <string>{-2.5,6}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{45,31},{75,76}}</string>
+        <key>sourceSize</key>
+        <string>{170,150}</string>
       </dict>
     </dict>
     <key>metadata</key>
