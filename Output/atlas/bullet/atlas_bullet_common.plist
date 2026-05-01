@@ -7,241 +7,410 @@
       <key>earth_trail_04</key>
       <dict>
         <key>frame</key>
-        <string>{{4,4},{204,60}}</string>
+        <string>{{4,4},{60,204}}</string>
         <key>offset</key>
-        <string>{-1,1}</string>
+        <string>{1,1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{25,1},{204,60}}</string>
+        <string>{{3,25},{60,204}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>earth_trail_03</key>
       <dict>
         <key>frame</key>
-        <string>{{216,4},{202,60}}</string>
+        <string>{{4,216},{60,202}}</string>
         <key>offset</key>
-        <string>{-2,0}</string>
+        <string>{0,2}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{25,2},{202,60}}</string>
+        <string>{{2,25},{60,202}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>fire_trail_03</key>
       <dict>
         <key>frame</key>
-        <string>{{426,4},{201,60}}</string>
+        <string>{{4,426},{60,201}}</string>
         <key>offset</key>
-        <string>{-5.5,2}</string>
+        <string>{2,5.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{22,0},{201,60}}</string>
+        <string>{{4,22},{60,201}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>fire_trail_02</key>
       <dict>
         <key>frame</key>
-        <string>{{635,4},{200,58}}</string>
+        <string>{{4,635},{58,200}}</string>
         <key>offset</key>
-        <string>{-3,3}</string>
+        <string>{3,3}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{25,0},{200,58}}</string>
+        <string>{{6,25},{58,200}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>water_trail_03</key>
       <dict>
         <key>frame</key>
-        <string>{{843,4},{171,63}}</string>
+        <string>{{4,843},{63,171}}</string>
         <key>offset</key>
-        <string>{0.5,0.5}</string>
+        <string>{0.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{43,0},{171,63}}</string>
+        <string>{{1,43},{63,171}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>earth_trail_02</key>
       <dict>
         <key>frame</key>
-        <string>{{635,70},{199,60}}</string>
+        <string>{{70,635},{60,199}}</string>
         <key>offset</key>
-        <string>{-3.5,1}</string>
+        <string>{1,3.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{25,1},{199,60}}</string>
+        <string>{{3,25},{60,199}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>water_trail_01</key>
       <dict>
         <key>frame</key>
-        <string>{{842,75},{171,49}}</string>
+        <string>{{75,842},{49,171}}</string>
         <key>offset</key>
-        <string>{2.5,-3.5}</string>
+        <string>{-3.5,-2.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{45,11},{171,49}}</string>
+        <string>{{4,45},{49,171}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>wind_trail_01</key>
       <dict>
         <key>frame</key>
-        <string>{{842,132},{168,55}}</string>
+        <string>{{132,842},{55,168}}</string>
         <key>offset</key>
-        <string>{4,-2.5}</string>
+        <string>{-2.5,-4}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{48,7},{168,55}}</string>
+        <string>{{2,48},{55,168}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
+      </dict>
+      <key>water_trail_04</key>
+      <dict>
+        <key>frame</key>
+        <string>{{195,842},{60,164}}</string>
+        <key>offset</key>
+        <string>{-2,-5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,51},{60,164}}</string>
+        <key>sourceSize</key>
+        <string>{64,256}</string>
+      </dict>
+      <key>wind_trail_02</key>
+      <dict>
+        <key>frame</key>
+        <string>{{263,842},{63,143}}</string>
+        <key>offset</key>
+        <string>{0.5,-1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{1,58},{63,143}}</string>
+        <key>sourceSize</key>
+        <string>{64,256}</string>
+      </dict>
+      <key>wind_spark_04</key>
+      <dict>
+        <key>frame</key>
+        <string>{{263,993},{30,25}}</string>
+        <key>offset</key>
+        <string>{-1,-1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,5},{30,25}}</string>
+        <key>sourceSize</key>
+        <string>{32,32}</string>
+      </dict>
+      <key>water_spark_02</key>
+      <dict>
+        <key>frame</key>
+        <string>{{301,993},{14,24}}</string>
+        <key>offset</key>
+        <string>{0,2}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{9,2},{14,24}}</string>
+        <key>sourceSize</key>
+        <string>{32,32}</string>
+      </dict>
+      <key>water_spark_01</key>
+      <dict>
+        <key>frame</key>
+        <string>{{323,993},{11,19}}</string>
+        <key>offset</key>
+        <string>{-0.5,1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{10,5},{11,19}}</string>
+        <key>sourceSize</key>
+        <string>{32,32}</string>
       </dict>
       <key>earth_trail_01</key>
       <dict>
         <key>frame</key>
-        <string>{{4,72},{194,57}}</string>
+        <string>{{72,4},{57,194}}</string>
         <key>offset</key>
-        <string>{-2,0.5}</string>
+        <string>{0.5,2}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,3},{194,57}}</string>
+        <string>{{4,29},{57,194}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>fire_trail_04</key>
       <dict>
         <key>frame</key>
-        <string>{{206,72},{192,58}}</string>
+        <string>{{72,206},{58,192}}</string>
         <key>offset</key>
-        <string>{-6,2}</string>
+        <string>{2,6}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{26,1},{192,58}}</string>
+        <string>{{5,26},{58,192}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>water_trail_02</key>
       <dict>
         <key>frame</key>
-        <string>{{4,137},{189,61}}</string>
+        <string>{{137,4},{61,189}}</string>
         <key>offset</key>
-        <string>{3.5,1.5}</string>
+        <string>{1.5,-3.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{37,0},{189,61}}</string>
+        <string>{{3,37},{61,189}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>fire_trail_01</key>
       <dict>
         <key>frame</key>
-        <string>{{406,72},{184,58}}</string>
+        <string>{{72,406},{58,184}}</string>
         <key>offset</key>
-        <string>{-7,3}</string>
+        <string>{3,7}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{29,0},{184,58}}</string>
+        <string>{{6,29},{58,184}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>earth_spark_01</key>
       <dict>
         <key>frame</key>
-        <string>{{598,72},{29,25}}</string>
+        <string>{{72,598},{25,29}}</string>
         <key>offset</key>
-        <string>{0.5,-3.5}</string>
+        <string>{-3.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,7},{29,25}}</string>
+        <string>{{0,2},{25,29}}</string>
         <key>sourceSize</key>
         <string>{32,32}</string>
       </dict>
       <key>earth_spark_02</key>
       <dict>
         <key>frame</key>
-        <string>{{598,105},{29,25}}</string>
+        <string>{{105,598},{25,29}}</string>
         <key>offset</key>
-        <string>{1.5,-3.5}</string>
+        <string>{-3.5,-1.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{3,7},{29,25}}</string>
+        <string>{{0,3},{25,29}}</string>
         <key>sourceSize</key>
         <string>{32,32}</string>
-      </dict>
-      <key>water_trail_04</key>
-      <dict>
-        <key>frame</key>
-        <string>{{201,138},{164,60}}</string>
-        <key>offset</key>
-        <string>{5,-2}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{51,4},{164,60}}</string>
-        <key>sourceSize</key>
-        <string>{256,64}</string>
-      </dict>
-      <key>wind_trail_02</key>
-      <dict>
-        <key>frame</key>
-        <string>{{373,138},{143,63}}</string>
-        <key>offset</key>
-        <string>{1.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{58,0},{143,63}}</string>
-        <key>sourceSize</key>
-        <string>{256,64}</string>
       </dict>
       <key>wind_trail_03</key>
       <dict>
         <key>frame</key>
-        <string>{{524,138},{130,60}}</string>
+        <string>{{138,201},{60,130}}</string>
         <key>offset</key>
-        <string>{1,-2}</string>
+        <string>{-2,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{64,4},{130,60}}</string>
+        <string>{{0,64},{60,130}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
       </dict>
       <key>wind_trail_04</key>
       <dict>
         <key>frame</key>
-        <string>{{662,138},{121,59}}</string>
+        <string>{{138,339},{59,121}}</string>
         <key>offset</key>
-        <string>{3.5,-2.5}</string>
+        <string>{-2.5,-3.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{71,5},{121,59}}</string>
+        <string>{{0,71},{59,121}}</string>
         <key>sourceSize</key>
-        <string>{256,64}</string>
+        <string>{64,256}</string>
+      </dict>
+      <key>wind_core_05</key>
+      <dict>
+        <key>frame</key>
+        <string>{{138,468},{51,63}}</string>
+        <key>offset</key>
+        <string>{6.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,1},{51,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_02</key>
+      <dict>
+        <key>frame</key>
+        <string>{{138,539},{37,63}}</string>
+        <key>offset</key>
+        <string>{-0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,1},{37,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_01</key>
+      <dict>
+        <key>frame</key>
+        <string>{{138,610},{36,63}}</string>
+        <key>offset</key>
+        <string>{-1,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,1},{36,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_04</key>
+      <dict>
+        <key>frame</key>
+        <string>{{138,681},{36,63}}</string>
+        <key>offset</key>
+        <string>{-1,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,1},{36,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_08</key>
+      <dict>
+        <key>frame</key>
+        <string>{{138,752},{36,63}}</string>
+        <key>offset</key>
+        <string>{0,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,1},{36,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_06</key>
+      <dict>
+        <key>frame</key>
+        <string>{{182,610},{35,63}}</string>
+        <key>offset</key>
+        <string>{-1.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,1},{35,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_03</key>
+      <dict>
+        <key>frame</key>
+        <string>{{183,539},{34,63}}</string>
+        <key>offset</key>
+        <string>{-1,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,1},{34,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>wind_core_07</key>
+      <dict>
+        <key>frame</key>
+        <string>{{197,468},{33,63}}</string>
+        <key>offset</key>
+        <string>{-0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{15,1},{33,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>water_core_05</key>
+      <dict>
+        <key>frame</key>
+        <string>{{238,468},{50,62}}</string>
+        <key>offset</key>
+        <string>{7,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,2},{50,62}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>earth_core_03</key>
+      <dict>
+        <key>frame</key>
+        <string>{{205,339},{49,62}}</string>
+        <key>offset</key>
+        <string>{-7.5,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,2},{49,62}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
       </dict>
       <key>fire_spark_01</key>
       <dict>
         <key>frame</key>
-        <string>{{791,138},{32,32}}</string>
+        <string>{{205,409},{32,32}}</string>
         <key>offset</key>
         <string>{0,0}</string>
         <key>rotated</key>
@@ -254,7 +423,7 @@
       <key>fire_spark_02</key>
       <dict>
         <key>frame</key>
-        <string>{{791,178},{32,32}}</string>
+        <string>{{245,409},{32,32}}</string>
         <key>offset</key>
         <string>{0,0}</string>
         <key>rotated</key>
@@ -264,471 +433,302 @@
         <key>sourceSize</key>
         <string>{32,32}</string>
       </dict>
-      <key>wind_core_05</key>
-      <dict>
-        <key>frame</key>
-        <string>{{662,205},{63,51}}</string>
-        <key>offset</key>
-        <string>{0.5,6.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,0},{63,51}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_spark_01</key>
-      <dict>
-        <key>frame</key>
-        <string>{{733,205},{29,23}}</string>
-        <key>offset</key>
-        <string>{1.5,-4.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{3,9},{29,23}}</string>
-        <key>sourceSize</key>
-        <string>{32,32}</string>
-      </dict>
-      <key>wind_core_02</key>
-      <dict>
-        <key>frame</key>
-        <string>{{524,206},{63,37}}</string>
-        <key>offset</key>
-        <string>{0.5,-0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,14},{63,37}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_spark_04</key>
-      <dict>
-        <key>frame</key>
-        <string>{{595,206},{25,30}}</string>
-        <key>offset</key>
-        <string>{1.5,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{5,2},{25,30}}</string>
-        <key>sourceSize</key>
-        <string>{32,32}</string>
-      </dict>
-      <key>water_spark_02</key>
-      <dict>
-        <key>frame</key>
-        <string>{{628,206},{24,14}}</string>
-        <key>offset</key>
-        <string>{-2,0}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{2,9},{24,14}}</string>
-        <key>sourceSize</key>
-        <string>{32,32}</string>
-      </dict>
-      <key>water_spark_01</key>
-      <dict>
-        <key>frame</key>
-        <string>{{628,228},{19,11}}</string>
-        <key>offset</key>
-        <string>{-1.5,-0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{5,11},{19,11}}</string>
-        <key>sourceSize</key>
-        <string>{32,32}</string>
-      </dict>
-      <key>wind_core_01</key>
-      <dict>
-        <key>frame</key>
-        <string>{{831,195},{63,36}}</string>
-        <key>offset</key>
-        <string>{0.5,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,15},{63,36}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_core_04</key>
-      <dict>
-        <key>frame</key>
-        <string>{{733,236},{63,36}}</string>
-        <key>offset</key>
-        <string>{0.5,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,15},{63,36}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_core_08</key>
-      <dict>
-        <key>frame</key>
-        <string>{{902,195},{63,36}}</string>
-        <key>offset</key>
-        <string>{0.5,0}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,14},{63,36}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_core_06</key>
-      <dict>
-        <key>frame</key>
-        <string>{{804,239},{63,35}}</string>
-        <key>offset</key>
-        <string>{0.5,-1.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,16},{63,35}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_core_03</key>
-      <dict>
-        <key>frame</key>
-        <string>{{875,239},{63,34}}</string>
-        <key>offset</key>
-        <string>{0.5,-1}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,16},{63,34}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>wind_core_07</key>
-      <dict>
-        <key>frame</key>
-        <string>{{946,239},{63,33}}</string>
-        <key>offset</key>
-        <string>{0.5,-0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{1,16},{63,33}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>water_core_05</key>
-      <dict>
-        <key>frame</key>
-        <string>{{946,280},{62,50}}</string>
-        <key>offset</key>
-        <string>{1,7}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{2,0},{62,50}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>earth_core_03</key>
-      <dict>
-        <key>frame</key>
-        <string>{{875,281},{62,49}}</string>
-        <key>offset</key>
-        <string>{1,-7.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{2,15},{62,49}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
       <key>earth_core_07</key>
       <dict>
         <key>frame</key>
-        <string>{{4,206},{62,49}}</string>
+        <string>{{182,681},{49,62}}</string>
         <key>offset</key>
-        <string>{1,7.5}</string>
+        <string>{7.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,0},{62,49}}</string>
+        <string>{{15,2},{49,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_05</key>
       <dict>
         <key>frame</key>
-        <string>{{74,206},{62,48}}</string>
+        <string>{{182,751},{48,62}}</string>
         <key>offset</key>
-        <string>{1,8}</string>
+        <string>{8,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,0},{62,48}}</string>
+        <string>{{16,2},{48,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_06</key>
       <dict>
         <key>frame</key>
-        <string>{{144,206},{62,47}}</string>
+        <string>{{238,751},{47,62}}</string>
         <key>offset</key>
-        <string>{1,8.5}</string>
+        <string>{8.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,0},{62,47}}</string>
+        <string>{{17,2},{47,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_04</key>
       <dict>
         <key>frame</key>
-        <string>{{214,206},{62,47}}</string>
+        <string>{{225,539},{47,62}}</string>
         <key>offset</key>
-        <string>{1,-8.5}</string>
+        <string>{-8.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{62,47}}</string>
+        <string>{{0,2},{47,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_03</key>
       <dict>
         <key>frame</key>
-        <string>{{284,206},{62,34}}</string>
+        <string>{{225,609},{34,62}}</string>
         <key>offset</key>
-        <string>{1,1}</string>
+        <string>{1,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,14},{62,34}}</string>
+        <string>{{16,2},{34,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_04</key>
       <dict>
         <key>frame</key>
-        <string>{{354,209},{62,34}}</string>
+        <string>{{239,679},{34,62}}</string>
         <key>offset</key>
-        <string>{1,1}</string>
+        <string>{1,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,14},{62,34}}</string>
+        <string>{{16,2},{34,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_02</key>
       <dict>
         <key>frame</key>
-        <string>{{284,248},{62,33}}</string>
+        <string>{{267,609},{33,62}}</string>
         <key>offset</key>
-        <string>{1,-0.5}</string>
+        <string>{-0.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,16},{62,33}}</string>
+        <string>{{15,2},{33,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_08</key>
       <dict>
         <key>frame</key>
-        <string>{{424,209},{62,33}}</string>
+        <string>{{308,609},{33,62}}</string>
         <key>offset</key>
-        <string>{1,0.5}</string>
+        <string>{0.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,15},{62,33}}</string>
+        <string>{{16,2},{33,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_01</key>
       <dict>
         <key>frame</key>
-        <string>{{424,250},{62,33}}</string>
+        <string>{{280,538},{33,62}}</string>
         <key>offset</key>
-        <string>{1,1.5}</string>
+        <string>{1.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,14},{62,33}}</string>
+        <string>{{17,2},{33,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_03</key>
       <dict>
         <key>frame</key>
-        <string>{{354,282},{62,33}}</string>
+        <string>{{321,538},{33,62}}</string>
         <key>offset</key>
-        <string>{1,-1.5}</string>
+        <string>{-1.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{62,33}}</string>
+        <string>{{14,2},{33,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_06</key>
       <dict>
         <key>frame</key>
-        <string>{{354,323},{62,33}}</string>
+        <string>{{362,538},{33,62}}</string>
         <key>offset</key>
-        <string>{1,-1.5}</string>
+        <string>{-1.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{62,33}}</string>
+        <string>{{14,2},{33,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_02</key>
       <dict>
         <key>frame</key>
-        <string>{{144,261},{62,32}}</string>
+        <string>{{281,679},{32,62}}</string>
         <key>offset</key>
-        <string>{1,2}</string>
+        <string>{2,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,14},{62,32}}</string>
+        <string>{{18,2},{32,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_07</key>
       <dict>
         <key>frame</key>
-        <string>{{74,262},{62,32}}</string>
+        <string>{{293,749},{32,62}}</string>
         <key>offset</key>
-        <string>{1,-1}</string>
+        <string>{-1,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{62,32}}</string>
+        <string>{{15,2},{32,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_01</key>
       <dict>
         <key>frame</key>
-        <string>{{4,289},{62,31}}</string>
+        <string>{{321,679},{31,62}}</string>
         <key>offset</key>
-        <string>{1,0.5}</string>
+        <string>{0.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,16},{62,31}}</string>
+        <string>{{17,2},{31,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_04</key>
       <dict>
         <key>frame</key>
-        <string>{{4,328},{62,31}}</string>
+        <string>{{349,608},{31,62}}</string>
         <key>offset</key>
-        <string>{1,0.5}</string>
+        <string>{0.5,-1}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,16},{62,31}}</string>
+        <string>{{17,2},{31,62}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_05</key>
       <dict>
         <key>frame</key>
-        <string>{{4,367},{61,47}}</string>
+        <string>{{333,749},{47,61}}</string>
         <key>offset</key>
-        <string>{0.5,8.5}</string>
+        <string>{8.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,0},{61,47}}</string>
+        <string>{{17,2},{47,61}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>fire_core_08</key>
       <dict>
         <key>frame</key>
-        <string>{{214,261},{61,33}}</string>
+        <string>{{360,678},{33,61}}</string>
         <key>offset</key>
-        <string>{0.5,1.5}</string>
+        <string>{1.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,14},{61,33}}</string>
+        <string>{{17,2},{33,61}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_01</key>
       <dict>
         <key>frame</key>
-        <string>{{144,301},{61,33}}</string>
+        <string>{{388,608},{33,61}}</string>
         <key>offset</key>
-        <string>{0.5,-1.5}</string>
+        <string>{-1.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{61,33}}</string>
+        <string>{{14,2},{33,61}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_08</key>
       <dict>
         <key>frame</key>
-        <string>{{74,302},{61,33}}</string>
+        <string>{{334,818},{33,61}}</string>
         <key>offset</key>
-        <string>{0.5,-1.5}</string>
+        <string>{-1.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{61,33}}</string>
+        <string>{{14,2},{33,61}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>earth_core_06</key>
       <dict>
         <key>frame</key>
-        <string>{{283,289},{61,31}}</string>
+        <string>{{334,887},{31,61}}</string>
         <key>offset</key>
-        <string>{0.5,-1.5}</string>
+        <string>{-1.5,-0.5}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,18},{61,31}}</string>
+        <string>{{15,2},{31,61}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
+      </dict>
+      <key>wind_spark_01</key>
+      <dict>
+        <key>frame</key>
+        <string>{{334,956},{23,29}}</string>
+        <key>offset</key>
+        <string>{-4.5,-1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,3},{23,29}}</string>
+        <key>sourceSize</key>
+        <string>{32,32}</string>
       </dict>
       <key>fire_core_07</key>
       <dict>
         <key>frame</key>
-        <string>{{213,302},{60,34}}</string>
+        <string>{{365,956},{34,60}}</string>
         <key>offset</key>
-        <string>{0,2}</string>
+        <string>{2,0}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,13},{60,34}}</string>
+        <string>{{17,2},{34,60}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
       <key>water_core_02</key>
       <dict>
         <key>frame</key>
-        <string>{{213,344},{60,33}}</string>
+        <string>{{373,887},{33,60}}</string>
         <key>offset</key>
-        <string>{0,-1.5}</string>
+        <string>{-1.5,0}</string>
         <key>rotated</key>
         <false/>
         <key>sourceColorRect</key>
-        <string>{{2,17},{60,33}}</string>
+        <string>{{14,2},{33,60}}</string>
         <key>sourceSize</key>
         <string>{64,64}</string>
       </dict>
