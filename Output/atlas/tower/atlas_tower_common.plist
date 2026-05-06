@@ -20,7 +20,7 @@
       <key>tower_fire_idl_01</key>
       <dict>
         <key>frame</key>
-        <string>{{4,254},{190,239}}</string>
+        <string>{{200,4},{190,239}}</string>
         <key>offset</key>
         <string>{7,8.5}</string>
         <key>rotated</key>
@@ -33,7 +33,7 @@
       <key>tower_fire_idl_02</key>
       <dict>
         <key>frame</key>
-        <string>{{200,4},{166,239}}</string>
+        <string>{{4,254},{166,239}}</string>
         <key>offset</key>
         <string>{10,8.5}</string>
         <key>rotated</key>
@@ -46,7 +46,7 @@
       <key>tower_fire_idl_03</key>
       <dict>
         <key>frame</key>
-        <string>{{4,501},{153,239}}</string>
+        <string>{{178,254},{153,239}}</string>
         <key>offset</key>
         <string>{3.5,8.5}</string>
         <key>rotated</key>
@@ -59,7 +59,7 @@
       <key>tower_fire_idl_06</key>
       <dict>
         <key>frame</key>
-        <string>{{4,748},{153,239}}</string>
+        <string>{{398,4},{153,239}}</string>
         <key>offset</key>
         <string>{3.5,8.5}</string>
         <key>rotated</key>
@@ -72,7 +72,7 @@
       <key>tower_fire_idl_08</key>
       <dict>
         <key>frame</key>
-        <string>{{4,995},{153,239}}</string>
+        <string>{{339,251},{153,239}}</string>
         <key>offset</key>
         <string>{3.5,8.5}</string>
         <key>rotated</key>
@@ -82,10 +82,23 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
+      <key>tower_fire_idl_04</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,501},{153,238}}</string>
+        <key>offset</key>
+        <string>{3.5,8}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{55,1},{153,238}}</string>
+        <key>sourceSize</key>
+        <string>{256,256}</string>
+      </dict>
       <key>tower_water_idl_05</key>
       <dict>
         <key>frame</key>
-        <string>{{4,1242},{190,238}}</string>
+        <string>{{165,501},{190,238}}</string>
         <key>offset</key>
         <string>{6,7}</string>
         <key>rotated</key>
@@ -98,7 +111,7 @@
       <key>tower_water_idl_06</key>
       <dict>
         <key>frame</key>
-        <string>{{4,1488},{187,238}}</string>
+        <string>{{363,498},{187,238}}</string>
         <key>offset</key>
         <string>{5.5,9}</string>
         <key>rotated</key>
@@ -108,88 +121,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>tower_fire_idl_04</key>
-      <dict>
-        <key>frame</key>
-        <string>{{4,1734},{153,238}}</string>
-        <key>offset</key>
-        <string>{3.5,8}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{55,1},{153,238}}</string>
-        <key>sourceSize</key>
-        <string>{256,256}</string>
-      </dict>
-      <key>bullet_earth_trail</key>
-      <dict>
-        <key>frame</key>
-        <string>{{4,1980},{64,63}}</string>
-        <key>offset</key>
-        <string>{0,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,0},{64,63}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_fire_trail</key>
-      <dict>
-        <key>frame</key>
-        <string>{{76,1980},{64,63}}</string>
-        <key>offset</key>
-        <string>{0,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,0},{64,63}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_water_trail</key>
-      <dict>
-        <key>frame</key>
-        <string>{{148,1980},{64,63}}</string>
-        <key>offset</key>
-        <string>{0,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,0},{64,63}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_wind_trail</key>
-      <dict>
-        <key>frame</key>
-        <string>{{220,1980},{64,63}}</string>
-        <key>offset</key>
-        <string>{0,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,0},{64,63}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>tower_water_idl_08</key>
-      <dict>
-        <key>frame</key>
-        <string>{{165,1734},{188,236}}</string>
-        <key>offset</key>
-        <string>{3,8}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{37,2},{188,236}}</string>
-        <key>sourceSize</key>
-        <string>{256,256}</string>
-      </dict>
       <key>tower_water_idl_01</key>
       <dict>
         <key>frame</key>
-        <string>{{199,1488},{184,236}}</string>
+        <string>{{559,4},{184,236}}</string>
         <key>offset</key>
         <string>{4,9}</string>
         <key>rotated</key>
@@ -199,10 +134,23 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
+      <key>tower_water_idl_08</key>
+      <dict>
+        <key>frame</key>
+        <string>{{500,251},{188,236}}</string>
+        <key>offset</key>
+        <string>{3,8}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37,2},{188,236}}</string>
+        <key>sourceSize</key>
+        <string>{256,256}</string>
+      </dict>
       <key>tower_earth_idl_04</key>
       <dict>
         <key>frame</key>
-        <string>{{361,1732},{176,235}}</string>
+        <string>{{558,495},{176,235}}</string>
         <key>offset</key>
         <string>{8,6.5}</string>
         <key>rotated</key>
@@ -212,62 +160,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>bullet_earth_core</key>
-      <dict>
-        <key>frame</key>
-        <string>{{292,1978},{49,49}}</string>
-        <key>offset</key>
-        <string>{-0.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{7,7},{49,49}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_fire_core</key>
-      <dict>
-        <key>frame</key>
-        <string>{{349,1978},{49,49}}</string>
-        <key>offset</key>
-        <string>{-0.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{7,7},{49,49}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_water_core</key>
-      <dict>
-        <key>frame</key>
-        <string>{{406,1978},{49,49}}</string>
-        <key>offset</key>
-        <string>{-0.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{7,7},{49,49}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
-      <key>bullet_wind_core</key>
-      <dict>
-        <key>frame</key>
-        <string>{{463,1975},{49,49}}</string>
-        <key>offset</key>
-        <string>{-0.5,0.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{7,7},{49,49}}</string>
-        <key>sourceSize</key>
-        <string>{64,64}</string>
-      </dict>
       <key>tower_fire_idl_07</key>
       <dict>
         <key>frame</key>
-        <string>{{165,501},{153,235}}</string>
+        <string>{{4,747},{153,235}}</string>
         <key>offset</key>
         <string>{3.5,6.5}</string>
         <key>rotated</key>
@@ -277,10 +173,23 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
+      <key>tower_fire_idl_05</key>
+      <dict>
+        <key>frame</key>
+        <string>{{165,747},{153,234}}</string>
+        <key>offset</key>
+        <string>{3.5,6}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{55,5},{153,234}}</string>
+        <key>sourceSize</key>
+        <string>{256,256}</string>
+      </dict>
       <key>tower_water_idl_03</key>
       <dict>
         <key>frame</key>
-        <string>{{202,251},{193,234}}</string>
+        <string>{{326,747},{193,234}}</string>
         <key>offset</key>
         <string>{6.5,3}</string>
         <key>rotated</key>
@@ -293,7 +202,7 @@
       <key>tower_water_idl_04</key>
       <dict>
         <key>frame</key>
-        <string>{{391,4},{188,234}}</string>
+        <string>{{527,744},{188,234}}</string>
         <key>offset</key>
         <string>{4,11}</string>
         <key>rotated</key>
@@ -303,23 +212,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>tower_fire_idl_05</key>
-      <dict>
-        <key>frame</key>
-        <string>{{165,744},{153,234}}</string>
-        <key>offset</key>
-        <string>{3.5,6}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{55,5},{153,234}}</string>
-        <key>sourceSize</key>
-        <string>{256,256}</string>
-      </dict>
       <key>tower_water_idl_02</key>
       <dict>
         <key>frame</key>
-        <string>{{165,986},{186,233}}</string>
+        <string>{{751,4},{186,233}}</string>
         <key>offset</key>
         <string>{3,4.5}</string>
         <key>rotated</key>
@@ -332,7 +228,7 @@
       <key>tower_earth_idl_03</key>
       <dict>
         <key>frame</key>
-        <string>{{202,1227},{178,230}}</string>
+        <string>{{751,245},{178,230}}</string>
         <key>offset</key>
         <string>{9,4}</string>
         <key>rotated</key>
@@ -342,23 +238,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>tower_wind_idl_08</key>
-      <dict>
-        <key>frame</key>
-        <string>{{326,493},{202,229}}</string>
-        <key>offset</key>
-        <string>{0,3.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{27,10},{202,229}}</string>
-        <key>sourceSize</key>
-        <string>{256,256}</string>
-      </dict>
       <key>tower_wind_idl_03</key>
       <dict>
         <key>frame</key>
-        <string>{{403,246},{196,229}}</string>
+        <string>{{723,738},{196,229}}</string>
         <key>offset</key>
         <string>{5,3.5}</string>
         <key>rotated</key>
@@ -371,7 +254,7 @@
       <key>tower_wind_idl_04</key>
       <dict>
         <key>frame</key>
-        <string>{{587,4},{189,229}}</string>
+        <string>{{742,483},{189,229}}</string>
         <key>offset</key>
         <string>{6.5,3.5}</string>
         <key>rotated</key>
@@ -381,23 +264,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>tower_wind_idl_06</key>
-      <dict>
-        <key>frame</key>
-        <string>{{326,730},{188,229}}</string>
-        <key>offset</key>
-        <string>{3,3.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{37,10},{188,229}}</string>
-        <key>sourceSize</key>
-        <string>{256,256}</string>
-      </dict>
       <key>tower_wind_idl_05</key>
       <dict>
         <key>frame</key>
-        <string>{{359,967},{186,229}}</string>
+        <string>{{945,4},{186,229}}</string>
         <key>offset</key>
         <string>{5,3.5}</string>
         <key>rotated</key>
@@ -407,10 +277,23 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
+      <key>tower_wind_idl_06</key>
+      <dict>
+        <key>frame</key>
+        <string>{{937,245},{188,229}}</string>
+        <key>offset</key>
+        <string>{3,3.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37,10},{188,229}}</string>
+        <key>sourceSize</key>
+        <string>{256,256}</string>
+      </dict>
       <key>tower_wind_idl_07</key>
       <dict>
         <key>frame</key>
-        <string>{{522,730},{186,229}}</string>
+        <string>{{939,482},{186,229}}</string>
         <key>offset</key>
         <string>{3,3.5}</string>
         <key>rotated</key>
@@ -420,10 +303,23 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
+      <key>tower_wind_idl_08</key>
+      <dict>
+        <key>frame</key>
+        <string>{{927,720},{202,229}}</string>
+        <key>offset</key>
+        <string>{0,3.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{27,10},{202,229}}</string>
+        <key>sourceSize</key>
+        <string>{256,256}</string>
+      </dict>
       <key>tower_wind_idl_02</key>
       <dict>
         <key>frame</key>
-        <string>{{716,730},{195,228}}</string>
+        <string>{{4,990},{195,228}}</string>
         <key>offset</key>
         <string>{3.5,3}</string>
         <key>rotated</key>
@@ -436,7 +332,7 @@
       <key>tower_earth_idl_08</key>
       <dict>
         <key>frame</key>
-        <string>{{536,483},{178,227}}</string>
+        <string>{{207,989},{178,227}}</string>
         <key>offset</key>
         <string>{9,2.5}</string>
         <key>rotated</key>
@@ -449,7 +345,7 @@
       <key>tower_earth_idl_02</key>
       <dict>
         <key>frame</key>
-        <string>{{607,241},{178,226}}</string>
+        <string>{{393,989},{178,226}}</string>
         <key>offset</key>
         <string>{9,2}</string>
         <key>rotated</key>
@@ -462,7 +358,7 @@
       <key>tower_wind_idl_01</key>
       <dict>
         <key>frame</key>
-        <string>{{784,4},{194,223}}</string>
+        <string>{{579,986},{194,223}}</string>
         <key>offset</key>
         <string>{4,0.5}</string>
         <key>rotated</key>
@@ -475,7 +371,7 @@
       <key>tower_earth_idl_07</key>
       <dict>
         <key>frame</key>
-        <string>{{722,475},{178,222}}</string>
+        <string>{{781,975},{178,222}}</string>
         <key>offset</key>
         <string>{9,0}</string>
         <key>rotated</key>
@@ -488,7 +384,7 @@
       <key>tower_earth_idl_01</key>
       <dict>
         <key>frame</key>
-        <string>{{793,235},{174,221}}</string>
+        <string>{{1139,4},{174,221}}</string>
         <key>offset</key>
         <string>{7,-0.5}</string>
         <key>rotated</key>
@@ -501,7 +397,7 @@
       <key>tower_earth_idl_06</key>
       <dict>
         <key>frame</key>
-        <string>{{908,464},{177,217}}</string>
+        <string>{{1133,241},{177,217}}</string>
         <key>offset</key>
         <string>{8.5,-2.5}</string>
         <key>rotated</key>
@@ -514,7 +410,7 @@
       <key>tower_earth_idl_05</key>
       <dict>
         <key>frame</key>
-        <string>{{975,235},{173,216}}</string>
+        <string>{{1137,466},{173,216}}</string>
         <key>offset</key>
         <string>{6.5,-3}</string>
         <key>rotated</key>
@@ -524,62 +420,10 @@
         <key>sourceSize</key>
         <string>{256,256}</string>
       </dict>
-      <key>tower_wind_1</key>
-      <dict>
-        <key>frame</key>
-        <string>{{986,4},{107,166}}</string>
-        <key>offset</key>
-        <string>{0,-4}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,17},{107,166}}</string>
-        <key>sourceSize</key>
-        <string>{107,192}</string>
-      </dict>
-      <key>tower_earth_1</key>
-      <dict>
-        <key>frame</key>
-        <string>{{1101,4},{109,160}}</string>
-        <key>offset</key>
-        <string>{1.5,-2}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{3,18},{109,160}}</string>
-        <key>sourceSize</key>
-        <string>{112,192}</string>
-      </dict>
-      <key>tower_water_1</key>
-      <dict>
-        <key>frame</key>
-        <string>{{388,1204},{112,132}}</string>
-        <key>offset</key>
-        <string>{0,-24}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{0,54},{112,132}}</string>
-        <key>sourceSize</key>
-        <string>{112,192}</string>
-      </dict>
-      <key>tower_fire_1</key>
-      <dict>
-        <key>frame</key>
-        <string>{{388,1344},{108,131}}</string>
-        <key>offset</key>
-        <string>{0,-26.5}</string>
-        <key>rotated</key>
-        <false/>
-        <key>sourceColorRect</key>
-        <string>{{2,57},{108,131}}</string>
-        <key>sourceSize</key>
-        <string>{112,192}</string>
-      </dict>
       <key>tower_base</key>
       <dict>
         <key>frame</key>
-        <string>{{391,1483},{124,124}}</string>
+        <string>{{1137,690},{124,124}}</string>
         <key>offset</key>
         <string>{2,-26}</string>
         <key>rotated</key>
@@ -588,6 +432,760 @@
         <string>{{4,60},{124,124}}</string>
         <key>sourceSize</key>
         <string>{128,192}</string>
+      </dict>
+      <key>fx_hit_small_5</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1137,822},{96,86}}</string>
+        <key>offset</key>
+        <string>{0,5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{96,86}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_4</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1137,916},{94,92}}</string>
+        <key>offset</key>
+        <string>{1,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,1},{94,92}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{967,957},{85,93}}</string>
+        <key>offset</key>
+        <string>{-5.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,1},{85,93}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_5</key>
+      <dict>
+        <key>frame</key>
+        <string>{{967,1058},{93,79}}</string>
+        <key>offset</key>
+        <string>{0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,9},{93,79}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_4</key>
+      <dict>
+        <key>frame</key>
+        <string>{{967,1145},{92,71}}</string>
+        <key>offset</key>
+        <string>{0,-2.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,15},{92,71}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_6</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1067,1145},{90,68}}</string>
+        <key>offset</key>
+        <string>{-1,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{2,15},{90,68}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_9</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1068,1016},{88,82}}</string>
+        <key>offset</key>
+        <string>{-1,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,6},{88,82}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_4</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1164,1016},{87,87}}</string>
+        <key>offset</key>
+        <string>{0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{5,5},{87,87}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_5</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1165,1111},{87,87}}</string>
+        <key>offset</key>
+        <string>{0.5,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{5,5},{87,87}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_5</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,1226},{86,68}}</string>
+        <key>offset</key>
+        <string>{2,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,15},{86,68}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_6</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1165,1206},{85,82}}</string>
+        <key>offset</key>
+        <string>{-0.5,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{5,6},{85,82}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_7</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1239,916},{74,84}}</string>
+        <key>offset</key>
+        <string>{-1,-3}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{10,9},{74,84}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_9</key>
+      <dict>
+        <key>frame</key>
+        <string>{{781,1205},{83,80}}</string>
+        <key>offset</key>
+        <string>{6.5,8}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,0},{83,80}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_4</key>
+      <dict>
+        <key>frame</key>
+        <string>{{872,1205},{83,79}}</string>
+        <key>offset</key>
+        <string>{0.5,2.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,6},{83,79}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{4,1302},{83,82}}</string>
+        <key>offset</key>
+        <string>{0.5,-2}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,9},{83,82}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_6</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1067,1221},{83,63}}</string>
+        <key>offset</key>
+        <string>{-3.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{3,16},{83,63}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{95,1302},{65,82}}</string>
+        <key>offset</key>
+        <string>{0.5,-4}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{16,11},{65,82}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_7</key>
+      <dict>
+        <key>frame</key>
+        <string>{{98,1226},{80,64}}</string>
+        <key>offset</key>
+        <string>{-1,-3}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,19},{80,64}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_8</key>
+      <dict>
+        <key>frame</key>
+        <string>{{963,1224},{79,64}}</string>
+        <key>offset</key>
+        <string>{0.5,-3}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{9,19},{79,64}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_7</key>
+      <dict>
+        <key>frame</key>
+        <string>{{872,1292},{79,63}}</string>
+        <key>offset</key>
+        <string>{-1.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,16},{79,63}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_8</key>
+      <dict>
+        <key>frame</key>
+        <string>{{168,1298},{78,62}}</string>
+        <key>offset</key>
+        <string>{-2,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,17},{78,62}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{959,1296},{77,73}}</string>
+        <key>offset</key>
+        <string>{0.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{10,11},{77,73}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1241,822},{57,76}}</string>
+        <key>offset</key>
+        <string>{1.5,-7}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{21,17},{57,76}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_8</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1044,1296},{75,76}}</string>
+        <key>offset</key>
+        <string>{-0.5,2}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{10,8},{75,76}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_9</key>
+      <dict>
+        <key>frame</key>
+        <string>{{186,1226},{75,53}}</string>
+        <key>offset</key>
+        <string>{-3.5,7.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,14},{75,53}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_7</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1127,1296},{74,74}}</string>
+        <key>offset</key>
+        <string>{-1,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{10,10},{74,74}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_5</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1209,1296},{71,53}}</string>
+        <key>offset</key>
+        <string>{-1.5,7.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{11,14},{71,53}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_8</key>
+      <dict>
+        <key>frame</key>
+        <string>{{254,1293},{71,68}}</string>
+        <key>offset</key>
+        <string>{-0.5,-1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{12,15},{71,68}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{269,1224},{70,50}}</string>
+        <key>offset</key>
+        <string>{2,-2}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{15,25},{70,50}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_wind_aoe_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{333,1293},{70,66}}</string>
+        <key>offset</key>
+        <string>{0,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{13,14},{70,66}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_6</key>
+      <dict>
+        <key>frame</key>
+        <string>{{411,1293},{68,69}}</string>
+        <key>offset</key>
+        <string>{0,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,14},{68,69}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{487,1293},{68,68}}</string>
+        <key>offset</key>
+        <string>{0,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{14,13},{68,68}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_6</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1060,957},{66,46}}</string>
+        <key>offset</key>
+        <string>{0,6}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{15,19},{66,46}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>bullet_earth_trail</key>
+      <dict>
+        <key>frame</key>
+        <string>{{563,1293},{64,63}}</string>
+        <key>offset</key>
+        <string>{0,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{64,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_fire_trail</key>
+      <dict>
+        <key>frame</key>
+        <string>{{579,1217},{64,63}}</string>
+        <key>offset</key>
+        <string>{0,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{64,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_water_trail</key>
+      <dict>
+        <key>frame</key>
+        <string>{{635,1293},{64,63}}</string>
+        <key>offset</key>
+        <string>{0,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{64,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_wind_trail</key>
+      <dict>
+        <key>frame</key>
+        <string>{{707,1217},{64,63}}</string>
+        <key>offset</key>
+        <string>{0,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{64,63}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>fx_wind_aoe_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{707,1288},{64,58}}</string>
+        <key>offset</key>
+        <string>{-1,3}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{15,16},{64,58}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_fire_aoe_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1260,1008},{50,63}}</string>
+        <key>offset</key>
+        <string>{0,-14.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{23,31},{50,63}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{347,1224},{56,44}}</string>
+        <key>offset</key>
+        <string>{1,-4}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{21,30},{56,44}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_4</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1258,1206},{54,45}}</string>
+        <key>offset</key>
+        <string>{0,-0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{21,26},{54,45}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_7</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1260,1079},{52,40}}</string>
+        <key>offset</key>
+        <string>{0,3}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{22,25},{52,40}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_8</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1260,1127},{52,37}}</string>
+        <key>offset</key>
+        <string>{0,1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{22,28},{52,37}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{411,1223},{50,35}}</string>
+        <key>offset</key>
+        <string>{1,-5.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{24,36},{50,35}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>bullet_earth_core</key>
+      <dict>
+        <key>frame</key>
+        <string>{{469,1223},{49,49}}</string>
+        <key>offset</key>
+        <string>{-0.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,7},{49,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_fire_core</key>
+      <dict>
+        <key>frame</key>
+        <string>{{779,1293},{49,49}}</string>
+        <key>offset</key>
+        <string>{-0.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,7},{49,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_water_core</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1321,4},{49,49}}</string>
+        <key>offset</key>
+        <string>{-0.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,7},{49,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>bullet_wind_core</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1321,61},{49,49}}</string>
+        <key>offset</key>
+        <string>{-0.5,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{7,7},{49,49}}</string>
+        <key>sourceSize</key>
+        <string>{64,64}</string>
+      </dict>
+      <key>fx_earth_aoe_3</key>
+      <dict>
+        <key>frame</key>
+        <string>{{651,1217},{48,37}}</string>
+        <key>offset</key>
+        <string>{0,-4.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{24,34},{48,37}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{563,1364},{39,20}}</string>
+        <key>offset</key>
+        <string>{-0.5,-12}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{28,50},{39,20}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_2</key>
+      <dict>
+        <key>frame</key>
+        <string>{{696,248},{38,39}}</string>
+        <key>offset</key>
+        <string>{1,0.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{30,28},{38,39}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_9</key>
+      <dict>
+        <key>frame</key>
+        <string>{{1209,1357},{38,27}}</string>
+        <key>offset</key>
+        <string>{0,1.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{29,33},{38,27}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{779,1350},{34,34}}</string>
+        <key>offset</key>
+        <string>{0,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{31,30},{34,34}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_water_aoe_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{821,1363},{31,21}}</string>
+        <key>offset</key>
+        <string>{0.5,-3.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{33,41},{31,21}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_1</key>
+      <dict>
+        <key>frame</key>
+        <string>{{168,1370},{22,11}}</string>
+        <key>offset</key>
+        <string>{0,-13.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37,56},{22,11}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_9</key>
+      <dict>
+        <key>frame</key>
+        <string>{{651,1262},{22,22}}</string>
+        <key>offset</key>
+        <string>{-1,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36,37},{22,22}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_hit_small_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{198,1368},{16,16}}</string>
+        <key>offset</key>
+        <string>{-1,1}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{39,39},{16,16}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
+      </dict>
+      <key>fx_earth_aoe_0</key>
+      <dict>
+        <key>frame</key>
+        <string>{{860,1377},{15,7}}</string>
+        <key>offset</key>
+        <string>{-0.5,-13.5}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{40,58},{15,7}}</string>
+        <key>sourceSize</key>
+        <string>{96,96}</string>
       </dict>
     </dict>
     <key>metadata</key>
